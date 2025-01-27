@@ -1,4 +1,5 @@
 import Image from "next/image";
+console.log("Hello, World!");
 
 export default function Home() {
   return (
